@@ -10,6 +10,7 @@
     pkgs.nodePackages.pnpm
     pkgs.bun
     pkgs.gh
+    pkgs.openssl
   ];
   # Sets environment variables in the workspace
   env = {};
